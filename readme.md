@@ -17,14 +17,14 @@
 
 1. Clone este repositório ou faça o download dos arquivos.
 
-`git clone https://github.com/seu-username/nome-do-repositorio.git
-` 
+    `git clone https://github.com/seu-username/nome-do-repositorio.git` 
+
 2. Navegue até o diretório do projeto.
 
-    `cd nome-do-repositorio
+    `cd nome-do-repositorio`
 
-` 3. Execute cada exercício individualmente usando Node.js. Por exemplo, para executar o exercício 1:
+3. Execute cada exercício individualmente usando Node.js. Por exemplo, para executar o exercício 1:
 
-`node exercicio_01.js`
+  `node exercicio_01.js`
 
 4. Repita o terceiro passo para cada exercício, substituindo o nome do arquivo conforme necessário.
