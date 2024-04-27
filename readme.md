@@ -1,4 +1,4 @@
-#Instruções
+# Instruções
 
 - Este repositório contém 16 exercícios de código em JavaScript.
 - Os enunciados dos exercícios estão no início de seus respectivos códigos
