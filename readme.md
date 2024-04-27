@@ -18,7 +18,8 @@
 1. Clone este repositório ou faça o download dos arquivos.
 
 `git clone https://github.com/seu-username/nome-do-repositorio.git
-` 2. Navegue até o diretório do projeto.
+` 
+2. Navegue até o diretório do projeto.
 
     `cd nome-do-repositorio
 
